@@ -1,0 +1,3 @@
+[submodule "kits/rust"]
+	path = kits/rust
+	url = git@github.com:Naamio/data-space-kit-rust.git

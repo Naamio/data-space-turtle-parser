@@ -1,0 +1,6 @@
+# The same pin as the extension host, so the host and its components are built
+# with one compiler.
+[toolchain]
+channel = "nightly-2026-10-10"
+components = ["rustfmt", "clippy"]
+targets = ["wasm32-wasip3"]
